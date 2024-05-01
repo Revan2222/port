@@ -35,29 +35,30 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "REVANR",
+  tagline: "I'm a curious mind navigating the realms of knowledge and conversation.",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `I am currently pursuing your studies at Karpagam Institute of Technology, driven by a keen interest in DevOps practices and the Git version control system, paving your way towards a tech-savvy future.
+
+
+
+
+
+
+  `,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein: "https://www.linkedin.com/in/revan-r-182418269/",
+  github: "https://github.com/Revan2222",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
-  {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
-  },
+  
   {
     Position: "Internship",
     Company: `Company Name here`,
@@ -77,19 +78,11 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
-  },
-  {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
-  },
+    Collage: "Karpagam Institute of Technology",
+    Location: "Coimbatore",
+    Course: "Computer Science and Engineering",
+    
+  }
 ];
 
 // Tech Stack and Tools
